@@ -16,7 +16,7 @@ Luminous Lines is a powerful blogging platform that lets your thoughts shine bri
 - **Frontend**: Next.js, React, CSS Modules
 - **Backend**: Node.js, Firebase (Storage)
 - **Authentication**: OAuth (Google, Facebook, etc.)
-- **Deployment**: Vercel (Frontend), Heroku (Backend)
+- **Deployment**: Vercel
 
 ## Getting Started
 
